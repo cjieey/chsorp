@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    width: 380px;
+    width: 480px;
 }
 body{
     padding: 3%;
@@ -21,7 +21,7 @@ body{
     height: 100px;
     position: absolute;
     top: 130px;
-    left: 150px;
+    left: 200px;
     border: 5px solid white;
 }
 .info{
