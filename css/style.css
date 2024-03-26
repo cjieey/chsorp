@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    width: 470px;
+    width: 450px;
     scrollbar-width: thin;
     scrollbar-color: var(--scroll-bar-color) var(--scroll-bar-bg-color);
 }
@@ -68,6 +68,7 @@ body{
     margin-left: 3%;
 }
 .products {
+    border: 1px solid #ccc;
     margin-top: 5%;
     display: flex;
     overflow-y: auto;
