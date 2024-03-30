@@ -126,6 +126,9 @@ div.desc {
     text-align: justify;
     margin-left: 5%;
 }
+a{
+    font-size: small;
+}
 
 @media (min-width: 1200px) {
     * {
@@ -162,5 +165,27 @@ div.desc {
 
     div.item {
         width: 30%; /* Adjust width of product items */
+    }
+}
+@media (min-width: 390px){
+    *{
+        width: 91%;
+    }
+
+    .pfp {
+        width: 100px;
+        height: 100px;
+        top: 140px;
+        left: 25%;
+    }
+    .trend{
+        font-size:medium ;
+    }
+    .info{
+        margin-left: 4%;
+        font-size: small;
+    }
+    object{
+        width: 100%;
     }
 }
