@@ -154,7 +154,8 @@ li{
 }
 .socialmedia{
     margin-top: 25%;
-    margin-left: 10%;
+    margin-left: 18%;
+    width: 80%;
 }
 .socialmedia a{
     text-decoration: none;
@@ -162,6 +163,7 @@ li{
     font-weight: bolder;
     color: black;
     display: flex;
+    
 }
 .socialicon{
     border:1px solid #888;
