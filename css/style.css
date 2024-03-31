@@ -156,6 +156,7 @@ li{
     margin-top: 25%;
     margin-left: 18%;
     width: 80%;
+    margin-bottom: -50%;
 }
 .socialmedia a{
     text-decoration: none;
@@ -171,6 +172,7 @@ li{
     height: auto;
     margin-top: 5%;
     border-radius: 50px;
+
 }
 span{
     margin-top: 6.5%;
